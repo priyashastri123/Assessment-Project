@@ -1,0 +1,22 @@
+{
+  "name": "assessmentproject",
+  "version": "1.0.0",
+  "description": "Assessment Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "author": "Priya Shastri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "moment-timezone": "^0.5.48",
+    "mongoose": "^8.13.0",
+    "multer": "^1.4.5-lts.2",
+    "node-schedule": "^2.1.1",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "xlsx": "^0.18.5"
+  }
+}
